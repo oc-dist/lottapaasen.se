@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/111.jpg",
+  "name": null,
+  "alt": "Trädgård",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 2,
+  "format": "jpeg",
+  "width": 2016,
+  "height": 1512,
+  "visual_description": {
+    "name": "outdoor_garden_cafe_seating.jpg",
+    "description": "White wooden tables and chairs scattered on green lawn. Purple tree provides shade. Bright daylight, some shadowing. Background: car, playground, red wooden structure. Slightly cluttered arrangement.",
+    "score_basis": "Pleasant outdoor cafe setting, vibrant greens. Some shadow disruption, high contrast. Table placement appears crowded, limiting space. High-resolution, natural colors, not fake. Mildly inviting but visually busy.",
+    "purpose": "Outdoor cafe or event seating promotion.",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 7,
+    "feelings": [
+      "relaxed",
+      "inviting",
+      "casual"
+    ]
+  },
+  "analysis": {
+    "sharpness": 11114.63,
+    "quality_score": 8.66,
+    "blur_ratio": 4.17,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 102.91,
+    "contrast": 60.3,
+    "edge_density": 0.2953,
+    "color_std_dev": 55.85,
+    "entropy": 7.79,
+    "motion_blur": 0.82,
+    "dominant_color_percentage": 21.32,
+    "is_monochrome": false,
+    "aspect_ratio": 1.33
+  }
+}

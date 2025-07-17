@@ -1,0 +1,43 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/18.jpg",
+  "name": null,
+  "alt": "Backstugan",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 12,
+  "format": "jpeg",
+  "width": 640,
+  "height": 480,
+  "visual_description": {
+    "name": "rustic_dining_area_with_red_checked_tablecloths.jpg",
+    "description": "Long tables with red checkered tablecloths, assorted chairs, stone walls, wood roof, natural light, uneven lighting, minimal décor, clean but slightly cluttered arrangement. Some glare on windows.",
+    "score_basis": "Inviting rustic atmosphere, decent resolution, clean setup, but uneven lighting and slightly cluttered appearance reduce clarity. Strong sense of place, but not highly polished. Some glare on right window reduces visual quality.",
+    "purpose": "restaurant or event dining area",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 6,
+    "feelings": [
+      "rustic",
+      "inviting",
+      "casual",
+      "homey"
+    ]
+  },
+  "analysis": {
+    "sharpness": 1711.22,
+    "quality_score": 8.6,
+    "blur_ratio": 2.08,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 118.96,
+    "contrast": 58.18,
+    "edge_density": 0.1987,
+    "color_std_dev": 46.76,
+    "entropy": 7.81,
+    "motion_blur": 1.03,
+    "dominant_color_percentage": 16.52,
+    "is_monochrome": false,
+    "aspect_ratio": 1.33
+  }
+}

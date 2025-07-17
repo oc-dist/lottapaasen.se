@@ -1,0 +1,43 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/IMG_8_minst.jpg",
+  "name": null,
+  "alt": "fika",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 7,
+  "format": "jpeg",
+  "width": 646,
+  "height": 484,
+  "visual_description": {
+    "name": "cake_and_candlelit_corner.jpg",
+    "description": "A cake with icing and yellow pieces, chocolate balls with coconut, glass candle holders, doilies, candy bowls. Warm lighting, intricate wallpaper. Shadows, slight clutter.",
+    "score_basis": "The image has a cozy and inviting feel due to the warm lighting, homey wallpaper, and candlelight. However, the lighting creates some harsh shadows and there's minor clutter. Moderate sharpness, slightly uneven arrangement.",
+    "purpose": "Home dessert presentation",
+    "image_quality": 8,
+    "faces": 0,
+    "score": 6,
+    "feelings": [
+      "cozy",
+      "warmth",
+      "nostalgia",
+      "homeliness"
+    ]
+  },
+  "analysis": {
+    "sharpness": 2115.55,
+    "quality_score": 8.33,
+    "blur_ratio": 20.83,
+    "blur_category": "Slightly Blurry",
+    "overall_blur": false,
+    "brightness": 138.28,
+    "contrast": 58.22,
+    "edge_density": 0.179,
+    "color_std_dev": 42.07,
+    "entropy": 7.68,
+    "motion_blur": 0.98,
+    "dominant_color_percentage": 23.66,
+    "is_monochrome": false,
+    "aspect_ratio": 1.33
+  }
+}

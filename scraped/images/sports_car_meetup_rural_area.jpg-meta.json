@@ -1,0 +1,43 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/14___serialized2.jpg",
+  "name": null,
+  "alt": "14",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 23,
+  "format": "jpeg",
+  "width": 640,
+  "height": 351,
+  "visual_description": {
+    "name": "sports_car_meetup_rural_area.jpg",
+    "description": "Cluster of sports cars parked on coarse gravel lot. Two rustic buildings, greenery, overcast sky. Colors include white, silver, red, orange. Lighting flat, details are clear but slightly dull. No people visible.",
+    "score_basis": "Image instills communal, casual car enthusiast vibe. Moderate quality and resolution, composition is wide with central empty space, could be more tightly framed. Colorful cars contrast greenery, sky dull. Sharpness is decent, looks realistic.",
+    "purpose": "automobile event documentation",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 6,
+    "feelings": [
+      "casual",
+      "community",
+      "enthusiasm",
+      "outdoorsy"
+    ]
+  },
+  "analysis": {
+    "sharpness": 2123.44,
+    "quality_score": 8.81,
+    "blur_ratio": 12.5,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 137.59,
+    "contrast": 69.53,
+    "edge_density": 0.191,
+    "color_std_dev": 55.67,
+    "entropy": 7.77,
+    "motion_blur": 1.01,
+    "dominant_color_percentage": 20.25,
+    "is_monochrome": false,
+    "aspect_ratio": 1.82
+  }
+}

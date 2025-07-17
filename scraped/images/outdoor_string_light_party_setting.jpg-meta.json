@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/54___serialized2.jpg",
+  "name": null,
+  "alt": "vindskyddet kväll",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 14,
+  "format": "jpeg",
+  "width": 480,
+  "height": 367,
+  "visual_description": {
+    "name": "outdoor_string_light_party_setting.jpg",
+    "description": "Covered outdoor seating area, string lights, dim lighting, tables with chairs, centerpiece with flowers and pumpkins. Slightly dark. Warm orange-brown tones.",
+    "score_basis": "Dimly lit, which creates a cozy mood, but details are hard to see. The composition is symmetrical with a pleasing arrangement, but image resolution is mediocre. Lights add warmth; overall environment feels inviting but lacks sharpness and clarity.",
+    "purpose": "Event or party setting documentation",
+    "image_quality": 6,
+    "faces": 0,
+    "score": 4,
+    "feelings": [
+      "cozy",
+      "warm",
+      "inviting"
+    ]
+  },
+  "analysis": {
+    "sharpness": 344.3,
+    "quality_score": 6.42,
+    "blur_ratio": 42.86,
+    "blur_category": "Partially Blurry",
+    "overall_blur": false,
+    "brightness": 33.73,
+    "contrast": 34.71,
+    "edge_density": 0.0682,
+    "color_std_dev": 44.4,
+    "entropy": 6.42,
+    "motion_blur": 1.24,
+    "dominant_color_percentage": 38.28,
+    "is_monochrome": false,
+    "aspect_ratio": 1.31
+  }
+}

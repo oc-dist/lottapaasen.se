@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/67.jpg",
+  "name": null,
+  "alt": "",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 2,
+  "format": "jpeg",
+  "width": 640,
+  "height": 480,
+  "visual_description": {
+    "name": "dessert_duo_on_wooden_surface.jpg",
+    "description": "Two different desserts on plates: sponge cake with whipped cream and strawberry, chocolate cake slice with cream and strawberry. Warm lighting, overhead view. Dark wood table. Plates don't match. Slightly harsh shadows.",
+    "score_basis": "Cozy, homemade vibe. Image is clear but lacks professional staging. Lighting is uneven, some shadows. Mismatched plates with visible table texture. Color palette mostly neutral with pops of red and green. Desserts look real and appetizing. Not stylized or staged for commercial use.",
+    "purpose": "Food presentation/home baking showcase",
+    "image_quality": 8,
+    "faces": 0,
+    "score": 6,
+    "feelings": [
+      "homemade",
+      "cozy",
+      "inviting"
+    ]
+  },
+  "analysis": {
+    "sharpness": 615.56,
+    "quality_score": 8.38,
+    "blur_ratio": 4.17,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 123.56,
+    "contrast": 61.67,
+    "edge_density": 0.089,
+    "color_std_dev": 50.28,
+    "entropy": 7.44,
+    "motion_blur": 1.09,
+    "dominant_color_percentage": 21.1,
+    "is_monochrome": false,
+    "aspect_ratio": 1.33
+  }
+}

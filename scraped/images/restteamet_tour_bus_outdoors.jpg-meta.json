@@ -1,0 +1,43 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/47___serialized2.jpg",
+  "name": null,
+  "alt": "47",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 25,
+  "format": "jpeg",
+  "width": 449,
+  "height": 573,
+  "visual_description": {
+    "name": "restteamet_tour_bus_outdoors.jpg",
+    "description": "Large white coach bus labeled 'ResTeamet' parked on gravel near trees and a house. Bright daylight, sky with clouds. Side and front of bus visible. Natural scenery.",
+    "score_basis": "The image has good resolution and composition, clear view of bus, and natural daylight. Trees and house provide context, minimal distractions. Slight shadow and reflection on windshield, otherwise sharp. Lighting is natural, not harsh. Overall, professional travel or transportation feel.",
+    "purpose": "Travel company product/service image",
+    "image_quality": 8,
+    "faces": 0,
+    "score": 8,
+    "feelings": [
+      "professional",
+      "calm",
+      "summery",
+      "organized"
+    ]
+  },
+  "analysis": {
+    "sharpness": 1007.85,
+    "quality_score": 8.39,
+    "blur_ratio": 26.79,
+    "blur_category": "Slightly Blurry",
+    "overall_blur": false,
+    "brightness": 139.82,
+    "contrast": 61.55,
+    "edge_density": 0.1508,
+    "color_std_dev": 47.08,
+    "entropy": 7.67,
+    "motion_blur": 1.07,
+    "dominant_color_percentage": 23.26,
+    "is_monochrome": false,
+    "aspect_ratio": 0.78
+  }
+}

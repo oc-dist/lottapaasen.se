@@ -1,0 +1,43 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/52___serialized3.jpg",
+  "name": null,
+  "alt": "52",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 15,
+  "format": "jpeg",
+  "width": 480,
+  "height": 640,
+  "visual_description": {
+    "name": "cyclists_shared_meal_stone_room.jpg",
+    "description": "A group of cyclists in team jerseys dining at a long table with red-checked tablecloth in a rustic room. Natural lighting, slightly overexposed window, good overall sharpness, cluttered composition.",
+    "score_basis": "The image has a communal, energetic feel due to the group activity and setting. Bright natural light but slightly overexposed around the window. Image is sharp, details are clear. Composition is busy, making it less balanced visually. Colors are natural. The scene looks authentic, not fake.",
+    "purpose": "Event/documentation photo",
+    "image_quality": 9,
+    "faces": 12,
+    "score": 7,
+    "feelings": [
+      "camaraderie",
+      "motivation",
+      "energy",
+      "focus"
+    ]
+  },
+  "analysis": {
+    "sharpness": 3134.68,
+    "quality_score": 9.12,
+    "blur_ratio": 8.33,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 117.62,
+    "contrast": 80.1,
+    "edge_density": 0.1877,
+    "color_std_dev": 64.44,
+    "entropy": 7.5,
+    "motion_blur": 1.03,
+    "dominant_color_percentage": 29.12,
+    "is_monochrome": false,
+    "aspect_ratio": 0.75
+  }
+}

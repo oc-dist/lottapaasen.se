@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/49___serialized2.jpg",
+  "name": null,
+  "alt": "49",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 18,
+  "format": "jpeg",
+  "width": 480,
+  "height": 640,
+  "visual_description": {
+    "name": "cyclists_group_meal_stone_cabin.jpg",
+    "description": "Large group of cyclists in matching jerseys eating at a long table with red checkered cloth. Cabin with stone walls, white wooden beams. Daylight, mixed lighting. Cluttered composition.",
+    "score_basis": "Image captures a cheerful social moment. Resolution decent but lighting uneven. Some areas overexposed, messiness on table. Faces slightly obscured, tight framing. Composition crowded, not visually balanced.",
+    "purpose": "Group event documentation",
+    "image_quality": 9,
+    "faces": 15,
+    "score": 6,
+    "feelings": [
+      "camaraderie",
+      "friendship",
+      "team spirit"
+    ]
+  },
+  "analysis": {
+    "sharpness": 3186.09,
+    "quality_score": 9.15,
+    "blur_ratio": 6.25,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 121.5,
+    "contrast": 82.44,
+    "edge_density": 0.1956,
+    "color_std_dev": 64.2,
+    "entropy": 7.49,
+    "motion_blur": 1.05,
+    "dominant_color_percentage": 25.45,
+    "is_monochrome": false,
+    "aspect_ratio": 0.75
+  }
+}

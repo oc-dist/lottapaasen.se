@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/57___serialized2.jpg",
+  "name": null,
+  "alt": "café",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 13,
+  "format": "jpeg",
+  "width": 640,
+  "height": 480,
+  "visual_description": {
+    "name": "vintage_cafe_dining_room.jpg",
+    "description": "Wooden tables and chairs, set for tea. Natural daylight from two windows. Soft, warm color palette. Visible ceiling beams. Modest wall decor. Slightly overexposed windows, some uneven table arrangements.",
+    "score_basis": "Inviting, cozy atmosphere. Medium-quality resolution. Good composition but lacks symmetry. Natural lighting but overexposed at windows. No obvious digital artifacts, genuine feel. Slightly cluttered, informal. Could benefit from more even table spacing.",
+    "purpose": "cafe dining room ambiance showcase",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 7,
+    "feelings": [
+      "coziness",
+      "warmth",
+      "nostalgia"
+    ]
+  },
+  "analysis": {
+    "sharpness": 1899.3,
+    "quality_score": 8.59,
+    "blur_ratio": 14.58,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 120.88,
+    "contrast": 64.97,
+    "edge_density": 0.1696,
+    "color_std_dev": 47.49,
+    "entropy": 7.61,
+    "motion_blur": 1.06,
+    "dominant_color_percentage": 17.04,
+    "is_monochrome": false,
+    "aspect_ratio": 1.33
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/28.jpg",
+  "name": null,
+  "alt": "fika",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 8,
+  "format": "jpeg",
+  "width": 640,
+  "height": 480,
+  "visual_description": {
+    "name": "assorted_homemade_pastries_display.jpg",
+    "description": "Various homemade pastries: chocolate tarts, coconut balls, powdered cake squares, and oat bars on plates. Blue cup with flowers in background. Natural lighting, slight shadows.",
+    "score_basis": "Composition is well-organized and inviting. Lighting is natural but casts some uneven shadows. Resolution is decent. Focus is sharp on pastries, but background (flowers) not fully aligned. Color pops in flowers and pastries. Real, casual home setting. Slight tilt to view. No fake elements.",
+    "purpose": "food presentation/display",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 7,
+    "feelings": [
+      "warmth",
+      "homeliness",
+      "comfort",
+      "invitation"
+    ]
+  },
+  "analysis": {
+    "sharpness": 2334.33,
+    "quality_score": 8.53,
+    "blur_ratio": 27.08,
+    "blur_category": "Slightly Blurry",
+    "overall_blur": false,
+    "brightness": 127.01,
+    "contrast": 63.38,
+    "edge_density": 0.1607,
+    "color_std_dev": 51.89,
+    "entropy": 7.76,
+    "motion_blur": 0.99,
+    "dominant_color_percentage": 19.22,
+    "is_monochrome": false,
+    "aspect_ratio": 1.33
+  }
+}

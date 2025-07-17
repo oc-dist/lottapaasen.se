@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/IMG_3397.jpeg",
+  "name": null,
+  "alt": "Marika och Amelia",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 6,
+  "format": "jpeg",
+  "width": 4032,
+  "height": 3024,
+  "visual_description": {
+    "name": "lotta_pa_asen_cafe_outside.jpeg",
+    "description": "Two women in aprons stand outside a red wooden building with white trim, sign above reads 'Lotta på Åsen'. Bright outdoor light, green plants, shadows present, slightly harsh lighting.",
+    "score_basis": "Warm, welcoming atmosphere, decent composition. Strong sunlight causes some harsh shadows and overexposure on skin. Background context clear. Resolution is good, focus is sharp. Image does not look fake. Faces visible, natural setting.",
+    "purpose": "Café staff photo",
+    "image_quality": 9,
+    "faces": 2,
+    "score": 7,
+    "feelings": [
+      "welcoming",
+      "bright",
+      "cheerful"
+    ]
+  },
+  "analysis": {
+    "sharpness": 9713.73,
+    "quality_score": 8.55,
+    "blur_ratio": 8.33,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 111.87,
+    "contrast": 58.01,
+    "edge_density": 0.2794,
+    "color_std_dev": 52.62,
+    "entropy": 7.61,
+    "motion_blur": 0.84,
+    "dominant_color_percentage": 17.51,
+    "is_monochrome": false,
+    "aspect_ratio": 1.33
+  }
+}

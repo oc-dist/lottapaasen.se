@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/44___serialized2.jpg",
+  "name": null,
+  "alt": "44",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 28,
+  "format": "jpeg",
+  "width": 480,
+  "height": 460,
+  "visual_description": {
+    "name": "outdoor_event_dining_area.jpg",
+    "description": "White tables and chairs under a canopy, set on brick patio. Neutral palette, overcast daylight, minimal decoration, visible barn structure. Lighting flat, lacks color vibrancy, some cluttered arrangements.",
+    "score_basis": "Neutral, serene setup, but lacks strong visual impact. Overcast lighting makes scene flat, white color dominates, minimal decoration reduces warmth. Good clarity but no focal point. Suitable for casual event documentation.",
+    "purpose": "event dining documentation",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 6,
+    "feelings": [
+      "calm",
+      "neutral",
+      "orderly"
+    ]
+  },
+  "analysis": {
+    "sharpness": 928.77,
+    "quality_score": 8.81,
+    "blur_ratio": 17.19,
+    "blur_category": "Slightly Blurry",
+    "overall_blur": false,
+    "brightness": 142.78,
+    "contrast": 76.61,
+    "edge_density": 0.1472,
+    "color_std_dev": 54.83,
+    "entropy": 7.35,
+    "motion_blur": 1.26,
+    "dominant_color_percentage": 28.24,
+    "is_monochrome": false,
+    "aspect_ratio": 1.04
+  }
+}

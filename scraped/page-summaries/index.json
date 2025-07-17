@@ -1,0 +1,48 @@
+{
+  "name": "Lotta på Åsen",
+  "description": "Lotta på Åsen är ett anrikt café i hjärtat av Söderåsen, Skåne, känt för sitt traditionella svenska fika och hemlagade godsaker, särskilt våfflor efter gammalt recept. Webbplatsens syfte är att locka besökare till caféet, informera om meny, öppettider, evenemang, bokningar och ge en känsla av platsens historik och naturnära läge. Målgrupp är både lokalbefolkning, turister, naturälskare samt familjer och grupper som söker en mysig, genuin fikaupplevelse.",
+  "feelings": [
+    "Värme",
+    "Hemtrevnad",
+    "Nostalgi",
+    "Trygghet",
+    "Gemenskap",
+    "Lantlig ro",
+    "Glädje",
+    "Naturnära"
+  ],
+  "proposed_colours": {
+    "colours": [
+      {
+        "h": 4.0,
+        "s": 0.58,
+        "l": 0.41,
+        "comment": "Djupt röd – klassisk och varm, kopplad till loggan och den historiska lantcafé-känslan."
+      },
+      {
+        "h": 41.0,
+        "s": 0.23,
+        "l": 0.77,
+        "comment": "Ljus beige/gräddvit – mjuk bakgrundsfärg för att signalera lugn, öppenhet och caféets baktradition."
+      },
+      {
+        "h": 98.0,
+        "s": 0.12,
+        "l": 0.87,
+        "comment": "Diskret pastellgrön – förstärker den naturnära, lantliga och välkomnande atmosfären."
+      },
+      {
+        "h": 30.0,
+        "s": 0.21,
+        "l": 0.51,
+        "comment": "Ljus brun – knyter an till traditionellt bakverk, kaffe och värme."
+      },
+      {
+        "h": 0.0,
+        "s": 0.0,
+        "l": 0.13,
+        "comment": "Mjuk mörkgrå för text och kontrast, elegant utan att bli hård."
+      }
+    ]
+  }
+}

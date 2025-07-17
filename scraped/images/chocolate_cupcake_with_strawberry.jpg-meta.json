@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/Jes%201___serialized2.jpg",
+  "name": null,
+  "alt": "Jes 1",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 4,
+  "format": "jpeg",
+  "width": 166,
+  "height": 202,
+  "visual_description": {
+    "name": "chocolate_cupcake_with_strawberry.jpg",
+    "description": "Chocolate cupcake topped with whipped cream and a fresh strawberry. Slightly uneven cream, natural lighting, visible cupcake liner. Colors are vivid, composition centered, close-up framing. Image slightly grainy.",
+    "score_basis": "The image captures a delicious cupcake, but the focus is a bit soft, and graininess reduces the sharpness. Lighting is natural but uneven. Close-up works but lacks professional sharpness. Vivid colors add appeal.",
+    "purpose": "Food showcase or menu image.",
+    "image_quality": 7,
+    "faces": 0,
+    "score": 5,
+    "feelings": [
+      "craving",
+      "warmth",
+      "coziness"
+    ]
+  },
+  "analysis": {
+    "sharpness": 103.22,
+    "quality_score": 7.47,
+    "blur_ratio": 42.86,
+    "blur_category": "Partially Blurry",
+    "overall_blur": false,
+    "brightness": 116.95,
+    "contrast": 61.88,
+    "edge_density": 0.1019,
+    "color_std_dev": 61.96,
+    "entropy": 7.8,
+    "motion_blur": 1.67,
+    "dominant_color_percentage": 21.04,
+    "is_monochrome": false,
+    "aspect_ratio": 0.82
+  }
+}

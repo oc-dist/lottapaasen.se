@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/logga%20test%204.png",
+  "name": null,
+  "alt": "",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 0,
+  "format": "png",
+  "width": 537,
+  "height": 188,
+  "visual_description": {
+    "name": "Lotta_pa_Asen_logo.png",
+    "description": "Red text with two typographic styles on white. Upper text uses Gothic font, lower uses cursive. Clean and centered.",
+    "score_basis": "Image is clear, colors are clean with no distractions. Centered text, good contrast. Simple logo-style composition. No complex elements. Slight sharpness loss in cursive text. No faces.",
+    "purpose": "Logo/title graphic",
+    "image_quality": 5,
+    "faces": 0,
+    "score": 8,
+    "feelings": [
+      "tradition",
+      "heritage",
+      "formality"
+    ]
+  },
+  "analysis": {
+    "sharpness": 1028.66,
+    "quality_score": 5.23,
+    "blur_ratio": 33.33,
+    "blur_category": "Slightly Blurry",
+    "overall_blur": false,
+    "brightness": 239.02,
+    "contrast": 49.73,
+    "edge_density": 0.0356,
+    "color_std_dev": 43.0,
+    "entropy": 1.12,
+    "motion_blur": 1.18,
+    "dominant_color_percentage": 89.57,
+    "is_monochrome": true,
+    "aspect_ratio": 2.86
+  }
+}

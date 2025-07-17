@@ -1,0 +1,66 @@
+{
+  "internal_links": [
+    {
+      "href": "https://lottapaasen.se/",
+      "text": "Om oss",
+      "title": "Om oss",
+      "base_domain": "lottapaasen.se"
+    },
+    {
+      "href": "https://lottapaasen.se/sponsors",
+      "text": "Meny",
+      "title": "Meny",
+      "base_domain": "lottapaasen.se"
+    },
+    {
+      "href": "https://lottapaasen.se/practice-schedule",
+      "text": "Öppettider",
+      "title": "Öppettider",
+      "base_domain": "lottapaasen.se"
+    },
+    {
+      "href": "https://lottapaasen.se/gallery",
+      "text": "Galleri",
+      "title": "Galleri",
+      "base_domain": "lottapaasen.se"
+    },
+    {
+      "href": "https://lottapaasen.se/contact",
+      "text": "Kontakta oss",
+      "title": "Kontakta oss",
+      "base_domain": "lottapaasen.se"
+    }
+  ],
+  "external_links": [
+    {
+      "href": "tel:0739%20-%2044%2011%2069",
+      "text": "",
+      "title": "",
+      "base_domain": "tel:0739%20-%2044%2011%2069"
+    },
+    {
+      "href": "mailto:lottapaasen%40icloud.com",
+      "text": "",
+      "title": "",
+      "base_domain": "mailto:lottapaasen%40icloud.com"
+    },
+    {
+      "href": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/40.jpg?etag=%2217abd-62b9c3f5%22&quality=85&sourcecontenttype=image%2Fjpeg",
+      "text": "",
+      "title": "",
+      "base_domain": "impro.usercontent.one"
+    },
+    {
+      "href": "https://www.facebook.com/people/Lotta-p%C3%A5-%C3%A5sen/100045411761881",
+      "text": "",
+      "title": "",
+      "base_domain": "facebook.com"
+    },
+    {
+      "href": "https://www.instagram.com/lottapaasen",
+      "text": "",
+      "title": "",
+      "base_domain": "instagram.com"
+    }
+  ]
+}

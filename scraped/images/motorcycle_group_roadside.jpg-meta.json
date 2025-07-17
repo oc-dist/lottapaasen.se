@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/6_2___serialized1.jpg",
+  "name": null,
+  "alt": "MC 3",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 20,
+  "format": "jpeg",
+  "width": 480,
+  "height": 425,
+  "visual_description": {
+    "name": "motorcycle_group_roadside.jpg",
+    "description": "Five motorcyclists with helmets on a gravel road, trees and red house in background. Moderate sunlight, harsh shadows, slightly uneven composition. Colors mostly neutral with spots of blue and red.",
+    "score_basis": "Casual, informal roadside gathering. Image feels lively but lacks focus. Lighting is natural but harsh with strong shadows. Average resolution, slightly cluttered background. Faces obscured by helmets. No fake appearance.",
+    "purpose": "Event documentation",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 5,
+    "feelings": [
+      "adventure",
+      "freedom",
+      "casual"
+    ]
+  },
+  "analysis": {
+    "sharpness": 1814.42,
+    "quality_score": 8.74,
+    "blur_ratio": 1.56,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 120.23,
+    "contrast": 63.57,
+    "edge_density": 0.2708,
+    "color_std_dev": 49.39,
+    "entropy": 7.81,
+    "motion_blur": 1.14,
+    "dominant_color_percentage": 16.36,
+    "is_monochrome": false,
+    "aspect_ratio": 1.13
+  }
+}

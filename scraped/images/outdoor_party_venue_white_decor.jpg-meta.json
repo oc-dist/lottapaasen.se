@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/41___serialized3.jpg",
+  "name": null,
+  "alt": "41",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 30,
+  "format": "jpeg",
+  "width": 480,
+  "height": 640,
+  "visual_description": {
+    "name": "outdoor_party_venue_white_decor.jpg",
+    "description": "Covered outdoor event space with white chairs, long tables with white tablecloths, pastel balloons, hanging plants. Daylight, slightly overexposed. Simple, informal arrangement. Some cushions on chairs.",
+    "score_basis": "Event setting, organized but basic decor, washed out lighting due to overexposure, balloons, plants add festivity. Casual, slightly cluttered composition, lacks focus. Photo is clear but not striking. Lighting could be more balanced. No photo manipulation visible.",
+    "purpose": "Event or party documentation.",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 6,
+    "feelings": [
+      "welcoming",
+      "festive",
+      "casual"
+    ]
+  },
+  "analysis": {
+    "sharpness": 1571.69,
+    "quality_score": 8.71,
+    "blur_ratio": 8.33,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 146.95,
+    "contrast": 67.85,
+    "edge_density": 0.15,
+    "color_std_dev": 51.93,
+    "entropy": 7.61,
+    "motion_blur": 1.09,
+    "dominant_color_percentage": 19.56,
+    "is_monochrome": false,
+    "aspect_ratio": 0.75
+  }
+}

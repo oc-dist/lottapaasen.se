@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/22.jpg",
+  "name": null,
+  "alt": "Trädgård",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 3,
+  "format": "jpeg",
+  "width": 640,
+  "height": 480,
+  "visual_description": {
+    "name": "outdoor_cafe_garden_white_furniture.jpg",
+    "description": "Outdoor garden café with white wooden tables and chairs, red wood buildings in background, lush greenery, blue sky, some uneven shadow, slight lack of contrast.",
+    "score_basis": "Inviting and peaceful atmosphere, fair sharpness, natural daylight. Shadows on left create uneven lighting. Composition is balanced but could use more color contrast. Image captures the café's charm but could benefit from vibrancy boost.",
+    "purpose": "Outdoor café promotion or atmosphere showcase",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 7,
+    "feelings": [
+      "calm",
+      "inviting",
+      "peaceful"
+    ]
+  },
+  "analysis": {
+    "sharpness": 2576.72,
+    "quality_score": 8.73,
+    "blur_ratio": 12.5,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 106.91,
+    "contrast": 66.55,
+    "edge_density": 0.2017,
+    "color_std_dev": 56.79,
+    "entropy": 7.85,
+    "motion_blur": 1.02,
+    "dominant_color_percentage": 14.91,
+    "is_monochrome": false,
+    "aspect_ratio": 1.33
+  }
+}

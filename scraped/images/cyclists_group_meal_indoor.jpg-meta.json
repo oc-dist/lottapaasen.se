@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/50___serialized3.jpg",
+  "name": null,
+  "alt": "50",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 17,
+  "format": "jpeg",
+  "width": 480,
+  "height": 640,
+  "visual_description": {
+    "name": "cyclists_group_meal_indoor.jpg",
+    "description": "Group of cyclists sitting around a long table with red checked tablecloth, eating and drinking indoors. Bright natural lighting, predominantly black and blue cycling jerseys, some cluttered frame. Image slightly overexposed.",
+    "score_basis": "Casual meal gathering with friendly, festive feel. Image is bright with good mood, but unnatural highlights and overexposure. Composition is crowded, some faces partially blocked, clutter reduces focus. Natural, not fake.",
+    "purpose": "Group event documentation/social media post",
+    "image_quality": 9,
+    "faces": 10,
+    "score": 6,
+    "feelings": [
+      "camaraderie",
+      "joy",
+      "relaxation"
+    ]
+  },
+  "analysis": {
+    "sharpness": 2458.53,
+    "quality_score": 9.06,
+    "blur_ratio": 8.33,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 134.6,
+    "contrast": 77.86,
+    "edge_density": 0.1686,
+    "color_std_dev": 63.04,
+    "entropy": 7.35,
+    "motion_blur": 1.02,
+    "dominant_color_percentage": 27.71,
+    "is_monochrome": false,
+    "aspect_ratio": 0.75
+  }
+}

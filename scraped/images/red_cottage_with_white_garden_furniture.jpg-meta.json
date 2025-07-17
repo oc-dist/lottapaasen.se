@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/34___serialized3.jpg",
+  "name": null,
+  "alt": "Trädgård och cafébyggnad",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 1,
+  "format": "jpeg",
+  "width": 442,
+  "height": 640,
+  "visual_description": {
+    "name": "red_cottage_with_white_garden_furniture.jpg",
+    "description": "Red wooden house with black metal roof. Several white wooden tables and chairs set on green lawn. Tree branches at top with partial leaves. Bright daylight, slight overexposure in clouds.",
+    "score_basis": "Bright, cheerful outdoor scene with attractive red house, well-placed white furniture. Photo slightly overexposed in sky, moderate sharpness, some distractions from leaves. Inviting but lacks strong focal point, slightly flat colors. Not fake.",
+    "purpose": "Café/restaurant outdoor seating promo",
+    "image_quality": 8,
+    "faces": 0,
+    "score": 7,
+    "feelings": [
+      "peaceful",
+      "inviting",
+      "relaxed"
+    ]
+  },
+  "analysis": {
+    "sharpness": 2784.41,
+    "quality_score": 8.34,
+    "blur_ratio": 14.58,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 118.23,
+    "contrast": 49.91,
+    "edge_density": 0.2398,
+    "color_std_dev": 52.99,
+    "entropy": 7.41,
+    "motion_blur": 1.02,
+    "dominant_color_percentage": 21.19,
+    "is_monochrome": false,
+    "aspect_ratio": 0.69
+  }
+}

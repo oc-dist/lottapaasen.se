@@ -1,0 +1,43 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/51___serialized3.jpg",
+  "name": null,
+  "alt": "51",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 16,
+  "format": "jpeg",
+  "width": 480,
+  "height": 640,
+  "visual_description": {
+    "name": "cyclists_group_meal_rustic_setting.jpg",
+    "description": "Group of cyclists in matching jerseys seated around a red-checkered table eating. Indoor rustic space, stone wall and wooden beams, uneven lighting, casual atmosphere. Details visible.",
+    "score_basis": "Photo captures camaraderie and activity. Lighting is uneven, some parts overexposed. Image quality is good, colors are natural. Background busy but suits environment. Faces slightly blurred but identifiable. Feels informal and social. Not staged or fake.",
+    "purpose": "Documenting a team or group meal.",
+    "image_quality": 9,
+    "faces": 13,
+    "score": 7,
+    "feelings": [
+      "camaraderie",
+      "relaxation",
+      "friendship",
+      "informality"
+    ]
+  },
+  "analysis": {
+    "sharpness": 2274.13,
+    "quality_score": 9.02,
+    "blur_ratio": 8.33,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 115.92,
+    "contrast": 74.12,
+    "edge_density": 0.1799,
+    "color_std_dev": 63.78,
+    "entropy": 7.7,
+    "motion_blur": 1.02,
+    "dominant_color_percentage": 22.02,
+    "is_monochrome": false,
+    "aspect_ratio": 0.75
+  }
+}

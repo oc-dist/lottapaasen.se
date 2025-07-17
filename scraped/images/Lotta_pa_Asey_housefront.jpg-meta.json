@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/39___serialized3.jpg",
+  "name": null,
+  "alt": "",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 3,
+  "format": "jpeg",
+  "width": 640,
+  "height": 451,
+  "visual_description": {
+    "name": "Lotta_pa_Asey_housefront.jpg",
+    "description": "Front of a house with flowers and sign 'Lotta på Åsen.' Main subject clear, surroundings blurred. Monochrome palette, moderate lighting. Windows and floral arrangements visible.",
+    "score_basis": "Focus on the sign and house is adequate, but peripheral heavy blur impacts detail and context. Moderate lighting lacks vibrancy. Composition centered on text. Resolution appears average. No visible digital artifacts. Not fake, but lacks clarity.",
+    "purpose": "Tourism or location identification",
+    "image_quality": 7,
+    "faces": 0,
+    "score": 4,
+    "feelings": [
+      "nostalgia",
+      "calm",
+      "curiosity"
+    ]
+  },
+  "analysis": {
+    "sharpness": 962.55,
+    "quality_score": 6.69,
+    "blur_ratio": 72.92,
+    "blur_category": "Very Blurry",
+    "overall_blur": true,
+    "brightness": 146.05,
+    "contrast": 55.73,
+    "edge_density": 0.0734,
+    "color_std_dev": 18.58,
+    "entropy": 7.03,
+    "motion_blur": 1.03,
+    "dominant_color_percentage": 18.14,
+    "is_monochrome": false,
+    "aspect_ratio": 1.42
+  }
+}

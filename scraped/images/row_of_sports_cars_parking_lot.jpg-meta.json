@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/16___serialized2.jpg",
+  "name": null,
+  "alt": "16",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 24,
+  "format": "jpeg",
+  "width": 640,
+  "height": 337,
+  "visual_description": {
+    "name": "row_of_sports_cars_parking_lot.jpg",
+    "description": "Row of similar two-seater convertible sports cars in outdoor gravel lot, mostly red and white, forest background, overcast lighting. Framing wide, details on distant cars lacking sharpness.",
+    "score_basis": "Image has a sense of car gathering or club meet, neutral mood. Resolution adequate but distant cars lack clarity. Composition straightforward, horizontal alignment. Colors mostly neutral, subdued light. Background and foreground merge slightly, could use improved focus and contrast. Image is genuine, not fake.",
+    "purpose": "Car gathering documentation",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 6,
+    "feelings": [
+      "neutral",
+      "enthusiastic",
+      "calm"
+    ]
+  },
+  "analysis": {
+    "sharpness": 1923.03,
+    "quality_score": 8.94,
+    "blur_ratio": 2.5,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 115.02,
+    "contrast": 71.41,
+    "edge_density": 0.2201,
+    "color_std_dev": 56.82,
+    "entropy": 7.7,
+    "motion_blur": 1.02,
+    "dominant_color_percentage": 20.85,
+    "is_monochrome": false,
+    "aspect_ratio": 1.9
+  }
+}

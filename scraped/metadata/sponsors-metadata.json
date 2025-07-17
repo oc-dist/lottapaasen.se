@@ -1,0 +1,134 @@
+{
+  "stylesheets": [
+    "https://lottapaasen.se/onewebstatic/16ec6af313.css",
+    "https://lottapaasen.se/onewebstatic/77a04e4b70.css",
+    "https://lottapaasen.se/onewebstatic/b4da795d81.css",
+    "https://lottapaasen.se/onewebstatic/google-fonts.php?url=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2520Sans%253A100%252C100italic%252C200%252C200italic%252C300%252C300italic%252C500%252C500italic%252C600%252C600italic%252C700%252C700italic%252C800%252C800italic%252C900%252C900italic%252Citalic%252Cregular&subset%3Dall",
+    "https://lottapaasen.se/onewebstatic/google-fonts.php?url=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGreat%2520Vibes%253A100%252C100italic%252C200%252C200italic%252C300%252C300italic%252C500%252C500italic%252C600%252C600italic%252C700%252C700italic%252C800%252C800italic%252C900%252C900italic%252Citalic%252Cregular&subset%3Dall",
+    "https://lottapaasen.se/onewebstatic/google-fonts.php?url=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat%253A100%252C100italic%252C200%252C200italic%252C300%252C300italic%252C500%252C500italic%252C600%252C600italic%252C700%252C700italic%252C800%252C800italic%252C900%252C900italic%252Citalic%252Cregular&subset%3Dall",
+    "https://lottapaasen.se/onewebstatic/a3c2d77a40.css"
+  ],
+  "scripts": [
+    "https://lottapaasen.se/onewebstatic/e47f208c3a.js",
+    "https://lottapaasen.se/onewebstatic/f707379391.js"
+  ],
+  "fonts": [
+    "https://lottapaasen.se/onewebstatic/google-fonts.php?url=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJosefin%2520Sans%253A100%252C100italic%252C200%252C200italic%252C300%252C300italic%252C500%252C500italic%252C600%252C600italic%252C700%252C700italic%252C800%252C800italic%252C900%252C900italic%252Citalic%252Cregular&subset%3Dall",
+    "https://lottapaasen.se/onewebstatic/google-fonts.php?url=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGreat%2520Vibes%253A100%252C100italic%252C200%252C200italic%252C300%252C300italic%252C500%252C500italic%252C600%252C600italic%252C700%252C700italic%252C800%252C800italic%252C900%252C900italic%252Citalic%252Cregular&subset%3Dall",
+    "https://lottapaasen.se/onewebstatic/google-fonts.php?url=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat%253A100%252C100italic%252C200%252C200italic%252C300%252C300italic%252C500%252C500italic%252C600%252C600italic%252C700%252C700italic%252C800%252C800italic%252C900%252C900italic%252Citalic%252Cregular&subset%3Dall"
+  ],
+  "links": [
+    {
+      "rel": "canonical",
+      "href": "https://lottapaasen.se/sponsors"
+    }
+  ],
+  "meta_tags": [
+    {
+      "name": "robots",
+      "property": "",
+      "content": "all"
+    },
+    {
+      "name": "generator",
+      "property": "",
+      "content": "One.com Web Editor"
+    },
+    {
+      "name": "",
+      "property": "",
+      "content": "must-revalidate, max-age=0, public"
+    },
+    {
+      "name": "",
+      "property": "",
+      "content": "-1"
+    },
+    {
+      "name": "MobileOptimized",
+      "property": "",
+      "content": "320"
+    },
+    {
+      "name": "HandheldFriendly",
+      "property": "",
+      "content": "True"
+    },
+    {
+      "name": "format-detection",
+      "property": "",
+      "content": "telephone=no"
+    },
+    {
+      "name": "",
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "name": "",
+      "property": "og:title",
+      "content": "Meny | lottapaasen.se"
+    },
+    {
+      "name": "",
+      "property": "og:site_name",
+      "content": "lottapaasen.se"
+    },
+    {
+      "name": "",
+      "property": "og:url",
+      "content": "https://lottapaasen.se/sponsors"
+    },
+    {
+      "name": "",
+      "property": "og:image",
+      "content": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/logga%20test%204.png?etag=W%2F%222091-6233461a%22&sourceContentType=image%2Fpng&quality=85"
+    },
+    {
+      "name": "",
+      "property": "og:image:type",
+      "content": "image/png"
+    },
+    {
+      "name": "",
+      "property": "og:image:width",
+      "content": "537"
+    },
+    {
+      "name": "",
+      "property": "og:image:height",
+      "content": "188"
+    },
+    {
+      "name": "twitter:card",
+      "property": "",
+      "content": "summary"
+    },
+    {
+      "name": "twitter:title",
+      "property": "",
+      "content": "Meny | lottapaasen.se"
+    },
+    {
+      "name": "twitter:image:alt",
+      "property": "",
+      "content": "Meny | lottapaasen.se"
+    },
+    {
+      "name": "twitter:image",
+      "property": "",
+      "content": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/logga%20test%204.png?etag=W%2F%222091-6233461a%22&sourceContentType=image%2Fpng&quality=85"
+    },
+    {
+      "name": "viewport",
+      "property": "",
+      "content": "width=1080, initial-scale=1, maximum-scale=3.0, user-scalable=yes"
+    }
+  ],
+  "inline_styles": [
+    "html { word-wrap: break-word; }\n*, ::before, ::after { word-wrap: inherit; }\nhtml { box-sizing: border-box; }\n*, ::before, ::after { box-sizing: inherit; }\ndiv.code { box-sizing: content-box; }\nbody, ul, ol, li, h1, h2, h3, h4, h5, h6, form, input, p, td, textarea { margin: 0; padding: 0; }\nh1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: normal; }\nol, ul { list-style: none; }\ntable { border-collapse: collapse; border-spacing: 0; }\nimg { border: 0; }\nbody { -moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; }",
+    "@font-face {\n    font-family: 'dropDownMenu';\n    src:\n    url('data:font/woff;base64,d09GRgABAAAAAATIAAsAAAAABHwAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAABCAAAAGAAAABgCKf/                                                                           KmNtYXAAAAFoAAAAVAAAAFQXVtKIZ2FzcAAAAbwAAAAIAAAACAAAABBnbHlmAAABxAAAAHwAAAB8fskqDWhlYWQAAAJAAAAANgAAADYTD4ZFaGhlYQAAAngAAAAkAAAAJAMbAaFobXR4AAACnAAAABgAAAAYBgABN2xvY2EAAAK0AAAADgAAAA4AZgBCbWF4cAAAAsQAAAAgAAAAIAAIAAhuYW1lAAAC5AAAAcIAAAHCcs7DVXBvc3QAAASoAAAAIAAAACAAAwAAAAMCAAGQAAUAAAFMAWYAAABHAUwBZgAAAPUAGQCEAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAAAQAAA6QEBmf+                 aAGYBmQBmAAAAAQAAAAAAAAAAAAAAIAAAAAAAAwAAAAMAAAAcAAEAAwAAABwAAwABAAAAHAAEADgAAAAKAAgAAgACAAEAIOkB//3//wAAAAAAIOkA//3//wAB/+MXBAADAAEAAAAAAAAAAAAAAAEAAf//                                     AA8AAQAAAAAAAAAAAAIAADc5AQAAAAABAAAAAAAAAAAAAgAANzkBAAAAAAEAAAAAAAAAAAACAAA3OQEAAAAAAQCAAFABgADuAAUAADcXNxcHJ55iYh6AgO5iYh6AgAABALcAGgFVARoABQAAPwEnNxcHt2JiHoCAOGJiHoCAAAEAAAABAADh0Y3XXw889QALAgAAAAAA2TijFwAAAADZOKMXAAAAAAGAARoAAAAIAAIAAAAAAAAAAQAAAZn/                                                                                                                                mgAAAgAAAAAAAYAAAQAAAAAAAAAAAAAAAAAAAAYCAAAAAAAAAAAAAAAAAAAAAgAAgAIAALcAAAAAAAoAFAAeAC4APgAAAAEAAAAGAAYAAQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAOAK4AAQAAAAAAAQAMAAAAAQAAAAAAAgAHAI0AAQAAAAAAAwAMAEUAAQAAAAAABAAMAKIAAQAAAAAABQALACQAAQAAAAAABgAMAGkAAQAAAAAACgAaAMYAAwABBAkAAQAYAAwAAwABBAkAAgAOAJQAAwABBAkAAwAYAFEAAwABBAkABAAYAK4AAwABBAkABQAWAC8AAwABBAkABgAYAHUAAwABBAkACgA0AOBkcm9wRG93bk1lbnUAZAByAG8AcABEAG8AdwBuAE0AZQBuAHVWZXJzaW9uIDEuMABWAGUAcgBzAGkAbwBuACAAMQAuADBkcm9wRG93bk1lbnUAZAByAG8AcABEAG8AdwBuAE0AZQBuAHVkcm9wRG93bk1lbnUAZAByAG8AcABEAG8AdwBuAE0AZQBuAHVSZWd1bGFyAFIAZQBnAHUAbABhAHJkcm9wRG93bk1lbnUAZAByAG8AcABEAG8AdwBuAE0AZQBuAHVGb250IGdlbmVyYXRlZCBieSBJY29Nb29uLgBGAG8AbgB0ACAAZwBlAG4AZQByAGEAdABlAGQAIABiAHkAIABJAGMAbwBNAG8AbwBuAC4AAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA') format('woff');\n    font-weight: normal;\n    font-style: normal;\n}",
+    "@media (max-width: 650px) { body { min-width: 'initial' } body.desktopV { min-width: 1050px } }\n        @media (min-width: 651px) { body { min-width: 1050px } body.mobileV { min-width: initial } }",
+    ".bodyBackground {\n                            \nbackground-image:none;\nbackground-color:rgba(255,255,255,1);\n                        }"
+  ]
+}

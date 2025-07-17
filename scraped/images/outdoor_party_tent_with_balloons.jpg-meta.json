@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/43___serialized2.jpg",
+  "name": null,
+  "alt": "43",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 29,
+  "format": "jpeg",
+  "width": 480,
+  "height": 640,
+  "visual_description": {
+    "name": "outdoor_party_tent_with_balloons.jpg",
+    "description": "White party tent with pastel balloons, white-covered tables, scattered flowers in vases, and high chairs. Soft daylight, uneven color palette, slightly cluttered table setup. Slight tilt in framing.",
+    "score_basis": "Light and airy mood. Decent sharpness, but some overexposure and uneven balloon arrangement. Tables not fully set, some visual clutter from utensils. Natural lighting is pleasant but slightly flat. Event setup in progress, not fully styled.",
+    "purpose": "Event or party venue setup photo",
+    "image_quality": 8,
+    "faces": 0,
+    "score": 6,
+    "feelings": [
+      "anticipation",
+      "calm",
+      "slight disorganization"
+    ]
+  },
+  "analysis": {
+    "sharpness": 909.22,
+    "quality_score": 7.98,
+    "blur_ratio": 27.08,
+    "blur_category": "Slightly Blurry",
+    "overall_blur": false,
+    "brightness": 170.4,
+    "contrast": 71.35,
+    "edge_density": 0.083,
+    "color_std_dev": 46.49,
+    "entropy": 7.43,
+    "motion_blur": 1.11,
+    "dominant_color_percentage": 26.85,
+    "is_monochrome": false,
+    "aspect_ratio": 0.75
+  }
+}

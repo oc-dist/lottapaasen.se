@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/45___serialized2.jpg",
+  "name": null,
+  "alt": "45",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 27,
+  "format": "jpeg",
+  "width": 480,
+  "height": 640,
+  "visual_description": {
+    "name": "outdoor_event_table_setting.jpg",
+    "description": "Tables with white cloths, peach napkins, and glassware under a tent. White chairs, simple vase flowers, balloons, gifts in background. Soft, natural light, some shadows, slightly dull colors.",
+    "score_basis": "Image has inviting feel, arranged for a celebration, but overall lighting is flat and colors lack vibrancy. Table arrangement is clear but background feels cluttered. Not professionally lit, looks casual and slightly underexposed. No fake elements apparent.",
+    "purpose": "Event/party setting documentation",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 6,
+    "feelings": [
+      "warmth",
+      "casualness",
+      "anticipation"
+    ]
+  },
+  "analysis": {
+    "sharpness": 705.59,
+    "quality_score": 8.65,
+    "blur_ratio": 16.67,
+    "blur_category": "Slightly Blurry",
+    "overall_blur": false,
+    "brightness": 152.24,
+    "contrast": 78.51,
+    "edge_density": 0.0972,
+    "color_std_dev": 45.59,
+    "entropy": 7.5,
+    "motion_blur": 1.12,
+    "dominant_color_percentage": 29.04,
+    "is_monochrome": false,
+    "aspect_ratio": 0.75
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/48___serialized1.jpg",
+  "name": null,
+  "alt": "48",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 26,
+  "format": "jpeg",
+  "width": 480,
+  "height": 640,
+  "visual_description": {
+    "name": "parked_tour_bus_on_gravel_path.jpg",
+    "description": "Large tour bus parked on gravel path, side door open, partial reflection of trees. Bright daylight, clear sky. Image tilted, slightly cut-off framing. Minor glare on bus windows.",
+    "score_basis": "Standard tour bus photo in natural light. Image slightly tilted, open door adds casual feel. Colors clear but some glare/reflections on windows. Framing cuts off front of bus. No obvious digital manipulation.",
+    "purpose": "transportation context photo",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 6,
+    "feelings": [
+      "casual",
+      "travel",
+      "anticipation"
+    ]
+  },
+  "analysis": {
+    "sharpness": 1054.38,
+    "quality_score": 8.62,
+    "blur_ratio": 16.67,
+    "blur_category": "Slightly Blurry",
+    "overall_blur": false,
+    "brightness": 135.89,
+    "contrast": 66.31,
+    "edge_density": 0.1438,
+    "color_std_dev": 49.41,
+    "entropy": 7.69,
+    "motion_blur": 1.03,
+    "dominant_color_percentage": 18.03,
+    "is_monochrome": false,
+    "aspect_ratio": 0.75
+  }
+}

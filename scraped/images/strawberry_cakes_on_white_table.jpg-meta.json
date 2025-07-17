@@ -1,0 +1,43 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/20___serialized1.jpg",
+  "name": null,
+  "alt": "20",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 3,
+  "format": "jpeg",
+  "width": 480,
+  "height": 640,
+  "visual_description": {
+    "name": "strawberry_cakes_on_white_table.jpg",
+    "description": "Two strawberry cakes with whipped cream on a white outdoor table. Vase of blue and white wildflowers. Red wooden houses in background. Overcast lighting, slightly uneven focus.",
+    "score_basis": "Calm, summery vibe. Outdoor setting. Cakes are inviting. Image quality is good, but focus is somewhat soft and lighting is flat. Composition is pleasant, background is busy but not distracting. Not fake, but could benefit from sharper detail and better lighting contrast.",
+    "purpose": "Food presentation image",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 7,
+    "feelings": [
+      "calm",
+      "inviting",
+      "summer",
+      "cozy"
+    ]
+  },
+  "analysis": {
+    "sharpness": 1419.06,
+    "quality_score": 8.86,
+    "blur_ratio": 20.83,
+    "blur_category": "Slightly Blurry",
+    "overall_blur": false,
+    "brightness": 148.55,
+    "contrast": 76.45,
+    "edge_density": 0.146,
+    "color_std_dev": 61.45,
+    "entropy": 7.61,
+    "motion_blur": 1.05,
+    "dominant_color_percentage": 29.85,
+    "is_monochrome": false,
+    "aspect_ratio": 0.75
+  }
+}

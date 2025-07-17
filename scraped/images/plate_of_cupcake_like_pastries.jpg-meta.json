@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/sm%C3%A5kakor%201___serialized1.jpg",
+  "name": null,
+  "alt": "småkakor 1___serialized1",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 2,
+  "format": "jpeg",
+  "width": 186,
+  "height": 166,
+  "visual_description": {
+    "name": "plate_of_cupcake_like_pastries.jpg",
+    "description": "Seven small round pastries in colorful plaid paper cups on a plate, each with a brown spot in the center. Lighting is warm but image is blurry, lacks sharpness.",
+    "score_basis": "Blurry image, lacks sharpness and detail. Warm but uneven lighting. Arrangement of pastries is appealing, but low resolution affects product clarity. Colors are muted due to lighting. Not fake, just poorly captured.",
+    "purpose": "Food product display",
+    "image_quality": 6,
+    "faces": 0,
+    "score": 3,
+    "feelings": [
+      "homey",
+      "warm",
+      "festive"
+    ]
+  },
+  "analysis": {
+    "sharpness": 65.33,
+    "quality_score": 5.82,
+    "blur_ratio": 71.88,
+    "blur_category": "Very Blurry",
+    "overall_blur": true,
+    "brightness": 123.46,
+    "contrast": 60.46,
+    "edge_density": 0.0673,
+    "color_std_dev": 49.06,
+    "entropy": 7.77,
+    "motion_blur": 1.74,
+    "dominant_color_percentage": 15.39,
+    "is_monochrome": false,
+    "aspect_ratio": 1.12
+  }
+}

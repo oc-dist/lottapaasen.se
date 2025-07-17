@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/55___serialized1.jpg",
+  "name": null,
+  "alt": "55___serialized1",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 1,
+  "format": "jpeg",
+  "width": 153,
+  "height": 168,
+  "visual_description": {
+    "name": "shrimp_salad_outdoor_lunch.jpg",
+    "description": "Plate of shrimp salad with lemon, cucumber, tomato. Blue-gray mug behind. Pink checkered tablecloth, napkin, fork. Strong sunlight causing harsh shadows. Colors natural, slightly overexposed highlights.",
+    "score_basis": "Outdoor dining feel. Image slightly overexposed, harsh sunlight causes strong shadows and blown highlights. Food arranged clearly. Composition typical, background cluttered with cup and utensils. Not fake, but lacks polish.",
+    "purpose": "food presentation",
+    "image_quality": 7,
+    "faces": 0,
+    "score": 5,
+    "feelings": [
+      "hunger",
+      "casual",
+      "summer"
+    ]
+  },
+  "analysis": {
+    "sharpness": 76.15,
+    "quality_score": 6.74,
+    "blur_ratio": 67.19,
+    "blur_category": "Very Blurry",
+    "overall_blur": true,
+    "brightness": 148.59,
+    "contrast": 53.63,
+    "edge_density": 0.1137,
+    "color_std_dev": 62.11,
+    "entropy": 7.59,
+    "motion_blur": 1.71,
+    "dominant_color_percentage": 25.66,
+    "is_monochrome": false,
+    "aspect_ratio": 0.91
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/vindskyddet.jpg",
+  "name": null,
+  "alt": "vindskyddet",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 4,
+  "format": "jpeg",
+  "width": 640,
+  "height": 480,
+  "visual_description": {
+    "name": "outdoor_cafe_patio_red_cabin.jpg",
+    "description": "Outdoor seating area with white wooden tables and chairs, red wooden shed in background, hanging flowerpots, green lawn, and trees. Lighting is natural, partly cloudy. No people present.",
+    "score_basis": "Pleasant, inviting setting, good composition, natural light. Image is sharp, colors true. Slight overexposure on white furniture reduces contrast. No visible imperfections. Balanced, cozy atmosphere for outdoor dining. Image does not look fake.",
+    "purpose": "Café patio promotion, venue showcase.",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 8,
+    "feelings": [
+      "calm",
+      "inviting",
+      "relaxed"
+    ]
+  },
+  "analysis": {
+    "sharpness": 2233.69,
+    "quality_score": 8.77,
+    "blur_ratio": 10.42,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 111.22,
+    "contrast": 65.32,
+    "edge_density": 0.2084,
+    "color_std_dev": 58.18,
+    "entropy": 7.85,
+    "motion_blur": 1.04,
+    "dominant_color_percentage": 17.61,
+    "is_monochrome": false,
+    "aspect_ratio": 1.33
+  }
+}

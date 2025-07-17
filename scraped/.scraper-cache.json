@@ -1,0 +1,74 @@
+{
+  "steps": {
+    "ScrapeDomainStep": {
+      "started_at": 1752779891.995441,
+      "duration": 66.91033601760864,
+      "result": true
+    },
+    "DeduplicateStep": {
+      "started_at": 1752779958.911245,
+      "duration": 0.310945987701416,
+      "result": true
+    },
+    "CleanStep": {
+      "started_at": 1752779959.2254772,
+      "duration": 0.22079682350158691,
+      "result": true
+    },
+    "ExtractIframesStep": {
+      "started_at": 1752779959.450187,
+      "duration": 0.03859400749206543,
+      "result": true
+    },
+    "ImageDescriptionsStep": {
+      "started_at": 1752779959.491752,
+      "duration": 9.02078104019165,
+      "result": true
+    },
+    "ImageRenamingStep": {
+      "started_at": 1752779968.519027,
+      "duration": 0.21334195137023926,
+      "result": true
+    },
+    "ImageAnalysisStep": {
+      "started_at": 1752779968.735583,
+      "duration": 0.8916590213775635,
+      "result": true
+    },
+    "ImageReportStep": {
+      "started_at": 1752779969.631867,
+      "duration": 0.02480912208557129,
+      "result": true
+    },
+    "ExtractNavMenuStep": {
+      "started_at": 1752779969.660057,
+      "duration": 1.478468894958496,
+      "result": true
+    },
+    "ExtractLanguageStep": {
+      "started_at": 1752779971.142069,
+      "duration": 3.3491978645324707,
+      "result": true
+    },
+    "SEOStep": {
+      "started_at": 1752779974.494206,
+      "duration": 0.0721280574798584,
+      "result": true
+    },
+    "ScreenshotsStep": {
+      "started_at": 1752779974.5715258,
+      "duration": 38.510754108428955,
+      "result": true
+    },
+    "ThemeStep": {
+      "started_at": 1752780013.0869172,
+      "duration": 7.313029766082764,
+      "result": true
+    },
+    "SummaryStep": {
+      "started_at": 1752780020.403151,
+      "duration": 14.622902870178223,
+      "result": true
+    }
+  }
+}

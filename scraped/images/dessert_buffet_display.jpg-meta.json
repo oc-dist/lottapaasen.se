@@ -1,0 +1,43 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/IMG_7_mellan.jpg",
+  "name": null,
+  "alt": "",
+  "desc": null,
+  "score": 5,
+  "type": "image",
+  "group_id": 1,
+  "format": "jpeg",
+  "width": 1613,
+  "height": 1210,
+  "visual_description": {
+    "name": "dessert_buffet_display.jpg",
+    "description": "Buffet with five desserts on a wooden counter, plates on the wall, plants, two lit lamps, moderate lighting. Dessert variety but image slightly dim, lacking sharpness.",
+    "score_basis": "Image feels homey and inviting, moderate resolution, cozy arrangement. Lighting could be improved, as it's slightly dim. Milder colors, some shadows. Dessert presentation is appealing but slightly cluttered. Not fake, clearly a real scene.",
+    "purpose": "Dessert buffet presentation",
+    "image_quality": 8,
+    "faces": 0,
+    "score": 6,
+    "feelings": [
+      "cozy",
+      "inviting",
+      "nostalgic",
+      "warm"
+    ]
+  },
+  "analysis": {
+    "sharpness": 2704.54,
+    "quality_score": 8.3,
+    "blur_ratio": 6.25,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 136.7,
+    "contrast": 48.81,
+    "edge_density": 0.1767,
+    "color_std_dev": 44.12,
+    "entropy": 7.42,
+    "motion_blur": 0.84,
+    "dominant_color_percentage": 27.97,
+    "is_monochrome": false,
+    "aspect_ratio": 1.33
+  }
+}

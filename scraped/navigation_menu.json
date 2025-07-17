@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "text": "Om oss",
+      "href": "index"
+    },
+    {
+      "text": "Meny",
+      "href": "sponsors"
+    },
+    {
+      "text": "Öppettider",
+      "href": "practice-schedule"
+    },
+    {
+      "text": "Galleri",
+      "href": "gallery"
+    },
+    {
+      "text": "Kontakta oss",
+      "href": "contact"
+    },
+    {
+      "src": "../images/Lotta_pa_Asen_logo.png",
+      "alt": "",
+      "href": "index"
+    }
+  ]
+}

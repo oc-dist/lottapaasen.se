@@ -1,0 +1,42 @@
+{
+  "src": "https://impro.usercontent.one/appid/oneComWsb/domain/lottapaasen.se/media/lottapaasen.se/onewebmedia/1___serialized1.jpg",
+  "name": null,
+  "alt": "Trädgård",
+  "desc": null,
+  "score": 6,
+  "type": "image",
+  "group_id": 5,
+  "format": "jpeg",
+  "width": 1602,
+  "height": 1512,
+  "visual_description": {
+    "name": "outdoor_garden_seating_with_white_flowers.jpg",
+    "description": "Blue and white wooden chairs, round tables on stone patio, lush greenery, white flowers in foreground. Natural light. Slight blur on foreground flowers, background in focus. Image not fake.",
+    "score_basis": "Inviting outdoor garden seating area. Good natural lighting and color balance. Foreground flowers slightly blurred, which distracts. Background moderately sharp, well-composed with a pleasant atmosphere. High resolution, image looks real. Could improve focus on flowers.",
+    "purpose": "Café terrace promotion or outdoor dining feature.",
+    "image_quality": 9,
+    "faces": 0,
+    "score": 7,
+    "feelings": [
+      "calm",
+      "relaxed",
+      "inviting"
+    ]
+  },
+  "analysis": {
+    "sharpness": 8008.9,
+    "quality_score": 8.55,
+    "blur_ratio": 7.81,
+    "blur_category": "Clear",
+    "overall_blur": false,
+    "brightness": 117.57,
+    "contrast": 54.37,
+    "edge_density": 0.3058,
+    "color_std_dev": 54.06,
+    "entropy": 7.75,
+    "motion_blur": 0.88,
+    "dominant_color_percentage": 15.49,
+    "is_monochrome": false,
+    "aspect_ratio": 1.06
+  }
+}
